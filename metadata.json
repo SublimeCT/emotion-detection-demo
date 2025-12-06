@@ -1,0 +1,7 @@
+{
+  "name": "Sentient Scan - Emotion & Action Detector",
+  "description": "A real-time vision application that detects human emotions and body actions using Gemini Flash.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
